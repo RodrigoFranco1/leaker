@@ -20,7 +20,7 @@ Este script en Python permite realizar búsquedas en la API de DeHashed, facilit
 
 Clone el repositorio a su máquina local:
 
-git clone https://github.com/Rodrigofranco1/leaker.git
+https://github.com/RodrigoFranco1/leaker.py.git
 
 Instale las dependencias necesarias (en este caso, `requests`):
 
