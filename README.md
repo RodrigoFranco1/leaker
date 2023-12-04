@@ -1,7 +1,3 @@
-![image](https://github.com/RodrigoFranco1/leaker.py/assets/115948997/1a0f5bd8-b354-4db2-9ecc-d48b6f305974)
-
-
-
 # Leaker
 
 Este script en Python permite realizar búsquedas en la API de DeHashed, facilitando la obtención de información relacionada con filtraciones de datos, cuentas comprometidas y más.
