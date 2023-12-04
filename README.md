@@ -58,15 +58,3 @@ Copy code
 API_KEY = 'tu_clave_api'
 Contribuciones
 Las contribuciones son siempre bienvenidas. Por favor, lea el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo LICENSE.md para más detalles.
-
-markdown
-Copy code
-
-### Notas Adicionales:
-
-- **Información Personalizada**: Reemplaza `https://github.com/tu_usuario/dehashed-script.git` con la URL real de tu repositorio.
-- **Contribuciones y Licencia**: Si planeas aceptar contribuciones, sería bueno tener un archivo `CONTRIBUTING.md`. Similarmente, si eliges una licencia específica, incluye un archivo `LICENSE.md`.
-- **Documentación Adicional**: Si el script tiene más opciones o capacidades, asegúrate de documentarlas en el `README.md`.
