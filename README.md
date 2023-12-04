@@ -1,3 +1,5 @@
+
+![DALL·E 2023-12-04 14 49 03 - Create a bold and dynamic image for a cybersecurity tool named 'Leaker'  The image should feature an abstract digital avatar, not a human or a known c](https://github.com/RodrigoFranco1/leaker.py/assets/115948997/edcf6e2d-6a04-457f-977d-9fad5e8564c2)
 # Leaker
 
 Este script en Python permite realizar búsquedas en la API de DeHashed, facilitando la obtención de información relacionada con filtraciones de datos, cuentas comprometidas y más.
