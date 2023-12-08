@@ -18,7 +18,7 @@ import argparse
 import time
 
 # Define tu clave API aquí
-API_KEY = 'hpc9v6t26regx5r39qrj3s8qieflpcsr'
+API_KEY = 'COLOCA TU APIKEY AQUI'
 
 def buscar_en_dehashed(auth, search_field, query, page, size):
     base_url = "https://api.dehashed.com/search"
