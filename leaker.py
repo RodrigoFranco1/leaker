@@ -2,14 +2,13 @@
 # -*- coding: utf-8 -*-
 
 """
-dehashed.py
-
+leaker.py
 Realiza una búsqueda en la API de DeHashed.
 
-Autor: Tu Nombre
-Fecha: Fecha de Creación
-Licencia: Tipo de Licencia (si aplica)
-Versión: Número de versión del script
+Autor: Rodrigo Franco Benavides
+Versión: 2.1
+Lindekin: @rodrigofrancob
+Telegram: @Gh0st_x3
 
 """
 
