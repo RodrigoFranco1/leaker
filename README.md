@@ -26,7 +26,6 @@ Instale las dependencias necesarias (en este caso, `requests`):
 
 pip install requests
 
-graphql
 
 ## Uso
 
