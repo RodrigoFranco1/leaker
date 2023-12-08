@@ -53,9 +53,7 @@ Reemplace tu_correo@ejemplo.com con su correo electrónico registrado en DeHashe
 
 Configuración
 Puede configurar la clave API de DeHashed directamente en el script:
-
-python
-Copy code
 API_KEY = 'tu_clave_api'
+
 Contribuciones
 Las contribuciones son siempre bienvenidas. Por favor, lea el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
