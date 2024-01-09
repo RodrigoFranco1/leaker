@@ -60,7 +60,7 @@ API_KEY = 'tu_clave_api'
 # Uso de la utilidad DataToExcel.py para convertir un fichero .txt a excel.
 # El script convierte un archivo de texto con el formato específico de leaker.py a un archivo Excel ordenado por columnas.
 
-python DataToExcel.py <tu archivo.txt>
+python DataToExcel.py "tu archivo.txt"
 Ejemplo: python DataToExcel.py datosFiltrados.txt
 
 ```
