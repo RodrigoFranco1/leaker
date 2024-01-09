@@ -74,19 +74,19 @@ def procesar_lista(auth, search_field, file_path, size):
 epilog_text = (
     "Ejemplos de uso:\n\n"
     "  Buscar por email:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search email -t \"usuario@ejemplo.com\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search email -t \"usuario@ejemplo.com\"\n\n"
     "  Buscar por nombre de usuario:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search username -t \"nombreusuario\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search username -t \"nombreusuario\"\n\n"
     "  Buscar por dirección IP:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search ip_address -t \"192.168.1.1\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search ip_address -t \"192.168.1.1\"\n\n"
     "  Buscar por dominio:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search domain -t \"ejemplo.com\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search domain -t \"ejemplo.com\"\n\n"
     "  Buscar por nombre:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search name -t \"John Doe\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search name -t \"John Doe\"\n\n"
     "  Buscar en todos los campos:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search all -t \"termino_de_busqueda\"\n\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search all -t \"termino_de_busqueda\"\n\n"
     "  Buscar utilizando una lista de términos:\n"
-    "    python dehashed.py --email tu_correo@ejemplo.com --search all -l \"lista.txt\"\n"
+    "    python leaker.py --email tu_correo@ejemplo.com --search all -l \"lista.txt\"\n"
 )
 
 def mostrar_logo():
