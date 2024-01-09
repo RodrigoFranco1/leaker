@@ -55,5 +55,12 @@ Configuración
 Puede configurar la clave API de DeHashed directamente en el script:
 API_KEY = 'tu_clave_api'
 
+#############################################################################################################
+
+# Buscar utilizando una lista de términos
+python leaker.py --email tu_correo@ejemplo.com --search all -l "lista.txt"
+Reemplace tu_correo@ejemplo.com con su correo electrónico registrado en DeHashed.
+
+
 Contribuciones
 Las contribuciones son siempre bienvenidas. Por favor, lea el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
