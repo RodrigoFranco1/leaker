@@ -57,11 +57,12 @@ API_KEY = 'tu_clave_api'
 
 #############################################################################################################
 
-# Buscar utilizando una lista de términos
-python leaker.py --email tu_correo@ejemplo.com --search all -l "lista.txt"
-Reemplace tu_correo@ejemplo.com con su correo electrónico registrado en DeHashed.
+# Uso de la utilidad DataToExcel.py para convertir un fichero .txt a excel.
+#El script convierte un archivo de texto con el formato específico de leaker.py a un archivo Excel ordenado por columnas.
 
+Uso: python DataToExcel.py <archivo.txt>
+Ejemplo: python DataToExcel.py datos.txt
 
 ```
 Contribuciones
-Las contribuciones son siempre bienvenidas. Por favor, lea el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
+Las contribuciones son siempre bienvenidas.
