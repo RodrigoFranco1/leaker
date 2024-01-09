@@ -33,22 +33,22 @@ El script se puede ejecutar desde la línea de comandos. Aquí hay algunos ejemp
 
 ```bash
 # Buscar por email
-python dehashed.py --email tu_correo@ejemplo.com --search email -t "usuario@ejemplo.com"
+python leaker.py --email tu_correo@ejemplo.com --search email -t "usuario@ejemplo.com"
 
 # Buscar por nombre de usuario
-python dehashed.py --email tu_correo@ejemplo.com --search username -t "nombreusuario"
+python leaker.py --email tu_correo@ejemplo.com --search username -t "nombreusuario"
 
 # Buscar por dirección IP
-python dehashed.py --email tu_correo@ejemplo.com --search ip_address -t "192.168.1.1"
+python leaker.py --email tu_correo@ejemplo.com --search ip_address -t "192.168.1.1"
 
 # Buscar por dominio
-python dehashed.py --email tu_correo@ejemplo.com --search domain -t "ejemplo.com"
+python leaker.py --email tu_correo@ejemplo.com --search domain -t "ejemplo.com"
 
 # Buscar en todos los campos
-python dehashed.py --email tu_correo@ejemplo.com --search all -t "termino_de_busqueda"
+python leaker.py --email tu_correo@ejemplo.com --search all -t "termino_de_busqueda"
 
 # Buscar utilizando una lista de términos
-python dehashed.py --email tu_correo@ejemplo.com --search all -l "lista.txt"
+python leaker.py --email tu_correo@ejemplo.com --search all -l "lista.txt"
 Reemplace tu_correo@ejemplo.com con su correo electrónico registrado en DeHashed.
 
 Configuración
