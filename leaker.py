@@ -5,11 +5,10 @@
 leaker.py
 Realiza una búsqueda en la API de DeHashed.
 
-Autor: Rodrigo Franco Benavides
+Autor: Rodrigo Y. Franco Benavides
 Versión: 2.1
 Lindekin: @rodrigofrancob
 Telegram: @Gh0st_x3
-
 """
 
 import requests
