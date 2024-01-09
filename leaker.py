@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 leaker.py
 Realiza una búsqueda en la API de DeHashed.
