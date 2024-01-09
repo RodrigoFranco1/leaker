@@ -6,7 +6,6 @@ Autor: Rodrigo Y. Franco Benavides
 Versión: 1.0
 Lindekin: @rodrigofrancob
 Telegram: @Gh0st_x3
-
 """
 
 import pandas as pd
