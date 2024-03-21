@@ -1,11 +1,6 @@
 """
 DataToExcel.py
-Realiza una búsqueda en la API de DeHashed.
-
-Autor: Rodrigo Y. Franco Benavides
-Versión: 1.0
-Lindekin: @rodrigofrancob
-Telegram: @Gh0st_x3
+Convierte los registros obtenidos de dehashed con leaker.py a un excel .cvs.
 """
 
 import pandas as pd
