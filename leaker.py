@@ -81,7 +81,7 @@ epilog_text = (
     "    python leaker.py --email tu_correo@ejemplo.com --search name -t \"John Doe\"\n\n"
     "  Buscar en todos los campos:\n"
     "    python leaker.py --email tu_correo@ejemplo.com --search all -t \"termino_de_busqueda\"\n\n"
-    "  Buscar utilizando una lista de términos:\n"
+    "  Buscar utilizando una wordlist:\n"
     "    python leaker.py --email tu_correo@ejemplo.com --search all -l \"lista.txt\"\n"
 )
 
