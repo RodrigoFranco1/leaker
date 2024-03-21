@@ -22,9 +22,9 @@ Clone el repositorio a su máquina local:
 
 https://github.com/RodrigoFranco1/leaker.py.git
 
-Instale las dependencias necesarias (en este caso, `requests`):
+Instale las dependencias necesarias (en este caso, requests):
 
-pip install requests
+`pip install requests`
 
 
 ## Uso
